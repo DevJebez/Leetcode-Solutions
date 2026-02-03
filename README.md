@@ -10,9 +10,18 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0876-middle-of-the-linked-list](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0206-reverse-linked-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
