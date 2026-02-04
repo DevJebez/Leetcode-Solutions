@@ -11,29 +11,22 @@
  */
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        ListNode temp = head;
-        int pos = -1;
-        // Create a map to keep track of
-        // encountered nodes
-        HashMap<ListNode, Integer> nodeMap = new HashMap<>();
+        if(head == null || head.next == null) return null;
 
-        // Step 2: Traverse the linked list
-        while (temp != null) {
-            // If the node is already in the
-            // map, there is a loop
-            if (nodeMap.containsKey(temp)) {
-                return temp;
+        ListNode slow = head;
+        ListNode fast = head;
+        while(fast != null && fast.next != null){
+            slow = slow.next;
+            fast = fast.next.next;
+            if(slow == fast){
+                slow = head;
+                while(slow != fast){
+                    slow = slow.next;
+                    fast = fast.next;
+                }
+                return slow;    
             }
-            // Store the current node
-            // in the map
-            pos++;
-            nodeMap.put(temp, pos);
-            // Move to the next node
-            temp = temp.next;
         }
-
-        // Step 3: If the list is successfully traversed 
-        // without a loop, return false
-        return null;   
+        return null;  
     }
 }
