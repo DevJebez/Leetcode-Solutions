@@ -32,6 +32,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -51,4 +52,12 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
