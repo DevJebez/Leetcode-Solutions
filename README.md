@@ -33,11 +33,13 @@
 | ------- |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Hash Table
 |  |
 | ------- |
@@ -60,4 +62,5 @@
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 <!---LeetCode Topics End-->
