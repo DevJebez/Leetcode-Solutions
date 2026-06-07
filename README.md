@@ -41,6 +41,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +79,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Binary Indexed Tree
 |  |
 | ------- |
