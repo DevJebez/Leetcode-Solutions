@@ -41,6 +41,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Sorting
@@ -51,6 +52,7 @@
 | [0406-queue-reconstruction-by-height](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## Hash Table
 |  |
@@ -80,6 +82,7 @@
 | [0135-candy](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0135-candy) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
+| [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 ## Binary Indexed Tree
