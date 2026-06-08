@@ -72,6 +72,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
@@ -93,4 +94,12 @@
 |  |
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
