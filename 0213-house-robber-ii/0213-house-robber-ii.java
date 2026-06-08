@@ -1,22 +1,24 @@
 class Solution {
-    static int helper(int current, int start, int[] nums, int[] dp){
-        if(current < start) return 0;
-        if(current == start) return nums[start];
-        if(dp[current] != -1) return dp[current];
-
-        int pick = helper(current - 2, start, nums, dp) + nums[current];
-        int notpick = helper(current -1, start, nums, dp);
-        return dp[current] = Math.max(pick, notpick);
-
-    }
     public int rob(int[] nums) {
         int n = nums.length;
-        if(n == 1) return nums[0];
-        int[] dp = new int[n+1];
-        Arrays.fill(dp, -1);
-        int case1 = helper(n-1,1, nums, dp);
-        Arrays.fill(dp, -1);
-        int case2 = helper(n-2,0, nums, dp);
+        if (n == 1) return nums[0];
+        if (n == 2) return Math.max(nums[0], nums[1]);
+        int case1 = cases(nums, 0, n - 2);
+        int case2 = cases(nums, 1, n - 1);
         return Math.max(case1, case2);
+    }
+
+    private int cases(int[] nums, int start, int end) {
+        int[] dp = new int[nums.length];
+        dp[start] = nums[start];
+        dp[start + 1] = Math.max(nums[start], nums[start + 1]);
+        //start from the 3rd house
+        for (int i = start + 2; i <= end; i++) {
+            int pick = nums[i] + dp[i - 2];
+            int notpick = dp[i - 1];
+            
+            dp[i] = Math.max(pick, notpick);
+        }
+        return dp[end];
     }
 }
