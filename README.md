@@ -77,6 +77,7 @@
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -107,6 +108,7 @@
 ## Math
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 ## Memoization
 |  |
@@ -116,4 +118,8 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0322-coin-change) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
