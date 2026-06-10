@@ -36,6 +36,7 @@
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0135-candy) |
@@ -80,6 +81,7 @@
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -128,4 +130,5 @@
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
