@@ -126,6 +126,7 @@
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0322-coin-change) |
+| [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 ## Combinatorics
 |  |
 | ------- |
@@ -136,4 +137,12 @@
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+## Graph Theory
+|  |
+| ------- |
+| [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 <!---LeetCode Topics End-->
