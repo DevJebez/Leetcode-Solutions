@@ -129,6 +129,7 @@
 | ------- |
 | [0322-coin-change](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
 | ------- |
@@ -143,9 +144,15 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
