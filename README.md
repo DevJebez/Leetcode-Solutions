@@ -49,6 +49,7 @@
 | [0455-assign-cookies](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0455-assign-cookies) |
 | [0518-coin-change-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -69,6 +70,7 @@
 | [0141-linked-list-cycle](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 ## Stack
 |  |
 | ------- |
@@ -145,4 +147,5 @@
 |  |
 | ------- |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
+| [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 <!---LeetCode Topics End-->
