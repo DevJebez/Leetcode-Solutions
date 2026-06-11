@@ -67,6 +67,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0141-linked-list-cycle](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
@@ -127,6 +128,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0322-coin-change](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0322-coin-change) |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
@@ -143,11 +145,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
+| [0133-clone-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0133-clone-graph) |
 | [0841-keys-and-rooms](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0841-keys-and-rooms) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1971-find-if-path-exists-in-graph](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1971-find-if-path-exists-in-graph) |
