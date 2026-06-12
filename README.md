@@ -18,6 +18,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -38,6 +39,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
@@ -66,6 +68,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0015-3sum) |
+| [0016-3sum-closest](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
 | [0406-queue-reconstruction-by-height](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0406-queue-reconstruction-by-height) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
