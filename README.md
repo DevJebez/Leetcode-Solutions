@@ -66,6 +66,7 @@
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Sorting
 |  |
 | ------- |
@@ -114,6 +115,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+| [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
 | ------- |
