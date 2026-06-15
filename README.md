@@ -68,6 +68,7 @@
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2789-largest-element-in-an-array-after-merge-operations](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2789-largest-element-in-an-array-after-merge-operations) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
@@ -194,6 +195,7 @@
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
+| [2226-maximum-candies-allocated-to-k-children](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 ## Monotonic Stack
 |  |
 | ------- |
