@@ -63,6 +63,7 @@
 | [0518-coin-change-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0875-koko-eating-bananas](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
@@ -192,6 +193,7 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 ## Monotonic Stack
 |  |
 | ------- |
