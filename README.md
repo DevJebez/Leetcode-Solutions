@@ -63,6 +63,7 @@
 | [0518-coin-change-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -118,6 +119,7 @@
 | [0518-coin-change-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0518-coin-change-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
+| [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
@@ -147,6 +149,7 @@
 | [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -193,4 +196,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
