@@ -104,6 +104,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [3612-process-string-with-special-operations-i](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -212,4 +213,8 @@
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
+## Simulation
+|  |
+| ------- |
+| [3612-process-string-with-special-operations-i](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
 <!---LeetCode Topics End-->
