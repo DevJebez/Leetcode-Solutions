@@ -43,6 +43,7 @@
 | [0016-3sum-closest](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0042-trapping-rain-water](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0064-minimum-path-sum) |
 | [0120-triangle](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0120-triangle) |
