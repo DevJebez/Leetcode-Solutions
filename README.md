@@ -70,6 +70,7 @@
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2064-minimized-maximum-of-products-distributed-to-any-store](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2064-minimized-maximum-of-products-distributed-to-any-store) |
 | [2226-maximum-candies-allocated-to-k-children](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2226-maximum-candies-allocated-to-k-children) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/DevJebez/Leetcode-Solutions/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -129,6 +130,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 ## Greedy
 |  |
