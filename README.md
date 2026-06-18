@@ -67,6 +67,7 @@
 | [0746-min-cost-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 | [1029-two-city-scheduling](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1029-two-city-scheduling) |
 | [1463-cherry-pickup-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1463-cherry-pickup-ii) |
@@ -95,6 +96,7 @@
 | [0141-linked-list-cycle](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0242-valid-anagram](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0242-valid-anagram) |
+| [0930-binary-subarrays-with-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0997-find-the-town-judge) |
 ## Stack
 |  |
@@ -219,4 +221,12 @@
 |  |
 | ------- |
 | [3612-process-string-with-special-operations-i](https://github.com/DevJebez/Leetcode-Solutions/tree/master/3612-process-string-with-special-operations-i) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
