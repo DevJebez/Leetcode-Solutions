@@ -56,6 +56,7 @@
 | [0189-rotate-array](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0213-house-robber-ii) |
+| [0303-range-sum-query-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0322-coin-change) |
@@ -232,10 +233,12 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 | [0930-binary-subarrays-with-sum](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
 ## Design
 |  |
 | ------- |
+| [0303-range-sum-query-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
