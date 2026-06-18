@@ -1,0 +1,21 @@
+class Solution {
+    public int numSubarraysWithSum(int[] nums, int goal) {
+        int l = 0;
+        int r = 0;
+        int n= nums.length;
+        int count=0;
+        int sum = 0;
+        for(int i = 0; i < n; i++){
+            sum = nums[i];
+            if(sum == goal) count++;
+            for(int j = i+1; j < n; j++){
+                sum += nums[j];
+                if(sum == goal){
+                    count++;
+                }
+            }
+        }
+        return count;
+       
+    }
+}
