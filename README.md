@@ -167,6 +167,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0189-rotate-array) |
 | [0877-stone-game](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0877-stone-game) |
@@ -212,6 +213,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0875-koko-eating-bananas](https://github.com/DevJebez/Leetcode-Solutions/tree/master/0875-koko-eating-bananas) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/DevJebez/Leetcode-Solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
